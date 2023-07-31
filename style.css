@@ -1,0 +1,124 @@
+/*.js-butt {
+    padding: 10px 12px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+.subs {
+    background-color: #ccc;
+}
+
+.js-cost {
+    padding: 10px;
+}
+
+.calk {
+    border-radius: 6px;
+    padding: 10px;
+    background-color: green;
+}
+
+.c-wiht {
+    color: white;
+}
+
+/*button {
+    padding: 14px 25px;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 8px;
+    color: white;
+    background-color: rgb(51, 51, 51);
+}
+
+.orange {
+    background-color: rgb(254, 160, 10);
+    color: white;
+
+}
+
+.clear {
+    font-size: 23px;
+    border-radius: 50%;
+    padding: 18px 10px;
+}
+
+.calculatrice {
+    display: flex;
+    width: 200px;
+    max-width: 300px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.calculatrice h3 {
+    padding: 20px 5px 5px 20px;
+    background-color: black;
+    color: white;
+}
+
+.toogl {
+    background-color: #ccc;
+    border-radius: 6px;
+    font-size: 20px;
+    margin: 50px;
+}
+
+.is-toogled {
+    background-color: black;
+}
+
+.error {
+    color: red;
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
+*/
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    padding: 10px;
+}
+
+.add {
+    padding: 12px 30px;
+    background-color: green;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.av {
+    background-color: red;
+    padding: 12px 22px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.todo {
+    display: grid;
+    grid-template-columns: 200px 140px 80px;
+    margin-top: 15px;
+    margin-top: 30px;
+}
+
+.name-dat {
+    margin-top: 15px;
+    font-size: 26px;
+}
